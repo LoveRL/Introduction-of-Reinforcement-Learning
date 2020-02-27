@@ -1,6 +1,6 @@
 # Introduction-of-Reinforcement-Learning
 
-강화학습 입문자를 위한 필요 개념과 내용들을 아래의 references를 통해 정리하였음.
+강화학습 입문자를 위한 필요 개념과 내용들을 아래의 references 내용을 바탕으로 정리하였음.
 
 References
 - David silver의 reinforcement learning (http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
